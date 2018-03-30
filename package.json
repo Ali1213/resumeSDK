@@ -1,6 +1,6 @@
 {
   "name": "resumesdk",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "resume parse",
   "main": "index.js",
   "directories": {

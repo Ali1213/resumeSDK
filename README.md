@@ -11,7 +11,7 @@
 
 ### 设置
 
-自行注册youyun，并获取`uid`和`pwd`，替换`settings.json`中对应的值
+请在官网自行注册resumesdk，并获取`uid`和`pwd`，替换`settings.json`中对应的值
 
 ### 使用
 
@@ -32,6 +32,7 @@ resumesdk(filepath).then( r => console.log(r))
 ### 中文简历
 
 识别度还可以
+
 针对特定模板，比如说拉勾网，简历的识别度甚至能到100%
 
 ### 英文简历
