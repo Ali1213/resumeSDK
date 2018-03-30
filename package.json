@@ -1,7 +1,7 @@
 {
-  "name": "youyun",
-  "version": "1.0.3",
-  "description": "youyun简历解析",
+  "name": "resumesdk",
+  "version": "1.0.1",
+  "description": "resume parse",
   "main": "index.js",
   "directories": {
     "test": "test"
@@ -17,17 +17,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Ali1213/youyun.git"
+    "url": "git+https://github.com/Ali1213/resumeSDK.git"
   },
   "keywords": [
-    "youyun",
-    "简历",
-    "解析"
+    "resume",
+    "parse"
   ],
   "author": "aliyu",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Ali1213/youyun/issues"
+    "url": "https://github.com/Ali1213/resumeSDK/issues"
   },
-  "homepage": "https://github.com/Ali1213/youyun#readme"
+  "homepage": "https://github.com/Ali1213/resumeSDK#readme"
 }
